@@ -4,7 +4,7 @@
     Console.WriteLine();
 }
 
-string[] firstMassive = { "Hello", "2", "world", ":-)" };
+string[] firstMassive = { "!!!????", "2", "1234", ":-)" };
 int limitLength = 3;
 int count = 0;
 for (int i = 0; i < firstMassive.Length; i++)
