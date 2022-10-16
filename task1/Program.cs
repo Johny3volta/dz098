@@ -4,7 +4,7 @@
     Console.WriteLine();
 }
 
-string[] firstMassive = { "!!!????", "2", "1234", ":-)" };
+string[] firstMassive = { "!!!????", "2", "1234", "х_Х" };
 int limitLength = 3;
 int count = 0;
 for (int i = 0; i < firstMassive.Length; i++)
